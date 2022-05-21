@@ -11,7 +11,7 @@
   <img align="center" alt="Lorena-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Lorena-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Lorena-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="right" alt="Lorena-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_tdOka2ie.png">
+  <img align="right" alt="Lorena-pic" height="160" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_tdOka2ie.png">
 </div>
 </br>
 <div align="center">
