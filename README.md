@@ -1,5 +1,5 @@
 ## Hey Hey Hello 😄
-- 🔭 Trabalho como Assistente de qualidade em um call center.
+- 🔭 Estudante de banco de dados no último semestre da faculdade, trago experiência em projetos Full stack desenvolvidos durante meu percurso acadêmico e criação de sistemas desenvolvidos com a combinação de tecnologias de web scraping, python, MySql, processamento de dados e UX, além de html, css e php. 
 - 🌱 Estudo Banco de dados na Fatec Bauru. 
 - 👧🏻 Pronouns: Ela/Dela
 ## Oi eu sou a Lorena Moraes, estudante de Banco de dados.
